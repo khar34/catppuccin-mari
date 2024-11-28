@@ -25,4 +25,6 @@ return {
 	base = "#1e1e2e",
 	mantle = "#181825",
 	crust = "#11111b",
+	-- Custom colors for the character's hair
+	hair = "#f4a460", -- A light orange/peach color
 }
